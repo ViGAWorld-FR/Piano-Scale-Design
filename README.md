@@ -46,7 +46,7 @@ $$80\% \text{ of } 75\% \text{ of } 100\% = 60\%$$
 ---
 
 ## 📥 Downloads
-The shared directory contains French and English files versions in **.xlsx** formats.
+The Release contains French and English files versions in **.xlsx** formats.
 
 ---
 *Created by ViGA-FR*

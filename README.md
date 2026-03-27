@@ -1,6 +1,6 @@
 # Piano Rebuilding Tool: Piano Scaling & Bass String Design Calculator
 
-### Automatic calculation of string tensions, loads, and wound bass string specifications.
+### Automatic calculation of string tensions, loads, steel wire diameters, and wound bass string specifications.
 
 ---
 

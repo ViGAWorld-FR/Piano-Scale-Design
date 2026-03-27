@@ -41,7 +41,7 @@ $$80\% \text{ of } 75\% \text{ of } 100\% = 60\%$$
 
 ## 📋 Usage Recommendations
 * **Documentation:** Once your restringing is complete, remember to print, date, and sign the stringing plan to leave it inside the piano for future technicians.
-* **Software Compatibility:** For full access to all tabs (Calculations, Graphs, Data), download the file and open it locally. It is compatible with **LibreOffice** (PC/Mac) and **OnlyOffice** (Mobile).
+* **Software Compatibility:** For full access to all tabs (Calculations, Graphs, Data), download the file and open it locally. It is compatible with **µS-Excel**, **LibreOffice** (PC/Mac), and **OnlyOffice** (Mobile).
 
 ---
 

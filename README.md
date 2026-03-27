@@ -46,7 +46,7 @@ $$80\% \text{ of } 75\% \text{ of } 100\% = 60\%$$
 ---
 
 ## 📥 Downloads
-The Release contains French and English files versions in **.xlsx** formats.
+The [GitHub Releases](https://github.com/ViGAWorld-FR/Piano-Scale-Design/releases) contains French and English files versions in **.xlsx** formats.
 
 ---
 *Created by ViGA-FR*

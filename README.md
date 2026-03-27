@@ -14,6 +14,14 @@ As a practical example, the tool is pre-filled with data from a real restoration
 
 ---
 
+## 🚀 Discover ViGAPhone Synth Lab
+If you are interested in piano technology, check out my other project:  
+**[ViGAPhone Synth Lab](https://github.com/ViGAWorld-FR/ViGAWorld-ViGAPhone)**
+
+This application provides innovative tools for **tuning and voicing pianos**. It incorporates an Electronic Tuning Device (ETD), spectral analyzer, and a physical modeling synthesizer allowing for real-time testing of temperaments and analysis of string harmonics.
+
+---
+
 ## 📜 Licensing & Usage
 * **Free to Use:** This tool is provided **free of charge** for both personal and professional use by piano technicians and rebuilders.
 * **Integrity & Safety:** While the tool is fully configurable, the core calculation formulas are protected. This is to ensure the technical integrity of the results and prevent the circulation of modified versions that could lead to dangerous tension levels for an instrument.
@@ -47,6 +55,7 @@ $$80\% \text{ of } 75\% \text{ of } 100\% = 60\%$$
 
 ## 📥 Downloads
 The [GitHub Releases](https://github.com/ViGAWorld-FR/Piano-Scale-Design/releases) contains French and English files versions in **.xlsx** formats.
+
 
 ---
 *Created by ViGA-FR*

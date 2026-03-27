@@ -1,6 +1,3 @@
-# Piano-Scale-Design
-Piano Scale Design Tool: Automatic calculation of string tension and bass string winding diameters
-
 # [Piano Rebuilding Tool] Piano Scaling & Bass String Design Calculator
 
 ### Automatic calculation of string tensions, loads, and wound bass string specifications.

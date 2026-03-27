@@ -14,6 +14,12 @@ As a practical example, the tool is pre-filled with data from a real restoration
 
 ---
 
+## 📜 Licensing & Usage
+* **Free to Use:** This tool is provided **free of charge** for both personal and professional use by piano technicians and rebuilders.
+* **Integrity & Safety:** While the tool is fully configurable, the core calculation formulas are protected. This is to ensure the technical integrity of the results and prevent the circulation of modified versions that could lead to dangerous tension levels for an instrument.
+
+---
+
 ## 🛠 Key Features
 * **Manufacturer Integration:** Pre-configured with technical data from **Stephen Paulello** and **Röslau**. It can be customized for other wire manufacturers if technical specifications are provided.
 * **Inharmonicity Assessment:** Includes formulas to estimate inharmonicity risks. While these are theoretical models, they provide a valuable baseline for scale smoothing (note: not applicable to wound strings).
@@ -37,15 +43,10 @@ $$80\% \text{ of } 75\% \text{ of } 100\% = 60\%$$
 * **Documentation:** Once your restringing is complete, remember to print, date, and sign the stringing plan to leave it inside the piano for future technicians.
 * **Software Compatibility:** For full access to all tabs (Calculations, Graphs, Data), download the file and open it locally. It is compatible with **LibreOffice** (PC/Mac) and **OnlyOffice** (Mobile).
 
-> [!WARNING]
-> **Do not open the file directly in Google Sheets.** The browser-based conversion alters the formulas and the accuracy of the results is no longer guaranteed. **Download the file to your local computer first.**
-
 ---
 
 ## 📥 Downloads
-The shared directory contains French and English versions in **.ods** and **.xlsx** formats:
-
-[**Access the Google Drive Folder**](https://drive.google.com/drive/folders/1C4eTCB-s8mEDPz1kyWGSA0BfgkT9XXG2?usp=sharing)
+The shared directory contains French and English files versions in **.xlsx** formats.
 
 ---
 *Created by ViGA-FR*

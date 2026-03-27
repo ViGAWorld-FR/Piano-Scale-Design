@@ -7,7 +7,7 @@
 ## 🎹 Overview
 Hello,
 
-I am providing this specialized tool designed to calculate and optimize **piano scaling (stringing plans)**. This spreadsheet allows you to analyze frame loads, determine bass string winding diameters, and assess inharmonicity risks.
+I am providing this specialized tool designed to calculate and optimize piano scaling (stringing plans). This spreadsheet allows you to analyze frame loads, determine bass string winding diameters and steel strings diameters, and assess inharmonicity risks.
 
 As a practical example, the tool is pre-filled with data from a real restoration: 
 **Weber (Aeolian Co. New York) - Duo Art, 5F Frame, 183cm (6') - SN 73211 (1918).**

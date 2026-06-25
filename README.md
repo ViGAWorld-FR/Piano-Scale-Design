@@ -12,13 +12,15 @@ I am providing this specialized tool designed to calculate and optimize piano sc
 As a practical example, the tool is pre-filled with data from a real restoration: 
 **Weber (Aeolian Co. New York) - Duo Art, 5F Frame, 183cm (6') - SN 73211 (1918).**
 
+Before considering replacing the piano strings, you should measure their inharmonicity note by note using my other tool, presented below.
+
 ---
 
 ## 🚀 Discover ViGAPhone Synth Lab
 If you are interested in piano technology, check out my other project:  
 **[ViGAPhone Synth Lab](https://github.com/ViGAWorld-FR/ViGAWorld-ViGAPhone)**
 
-This application provides innovative tools for **tuning and voicing pianos**. It incorporates an Electronic Tuning Device (ETD), spectral analyzer, and a physical modeling synthesizer allowing for real-time testing of temperaments and analysis of string harmonics.
+This application provides innovative tools for **tuning and voicing pianos**. It incorporates an Electronic Tuning Device (ETD), spectral analyzer, inharmonicity measurement, and a physical modeling synthesizer allowing for real-time testing of temperaments and analysis of string harmonics.
 
 ---
 
